@@ -1,3 +1,5 @@
+Writings of a whiskey enthusiast. Currently focused on American Single Malt.
+
 * **Reddit:** https://reddit.com/u/demireticent
 * **Twitter:** https://twitter.com/DemiTastes
 * **Subreddit:** [American Single Malt Whiskey](https://reddit.com/r/AmericanSMW)
