@@ -1,11 +1,11 @@
 ---
-version: 1.0.1
+title: "Review #1: Woodford Reserve Double Oaked"
+version: 1.0.2
 changelog:
+  - 1.0.2: Changed to fit template without wrong or redundant title.
   - 1.0.1: Removed rating scale and meta-discussion of ratings.
   - 1.0.0: Original publication.
 ---
-
-**Review #1: Woodford Reserve Double Oaked**
 
 **TL;DR:** Bananas Foster a la mode (light on the bananas)
 
