@@ -1,0 +1,7 @@
+.nav__options nav ul li, nav ul, nav li, nav ul li span {
+  display: inline;
+}
+
+.footer__options ul li {
+  display: inline;
+}

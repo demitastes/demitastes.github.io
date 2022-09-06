@@ -1,0 +1,42 @@
+title: Demi Tastes
+description: Writings of a whiskey enthusiast.
+twitter: DemiTastes
+instagram: DemiTastes
+feed_path: /feed.xml
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
+collections:
+  pages:
+    output: true
+    permalink: "/:name"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      permalink: "/:year/:i_month/:i_day/:title"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+markdown: kramdown
+highlighter: rouge
+paginate: 10
+paginate_path: "/reviews/page/:num"
+sass:
+  style: :compressed

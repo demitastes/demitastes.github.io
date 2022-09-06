@@ -1,0 +1,13 @@
+<nav class="nav">
+  {% if page.id == 'home' %}
+    <div class="nav__options">
+      <div>
+        <ul>
+          {% for option in site.data.nav.items %}
+            <li><a href="{{ option.url }}"><span>{{ option.title }}</span></a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  {% endif %}
+</nav>

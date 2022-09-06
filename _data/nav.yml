@@ -1,0 +1,12 @@
+items:
+  - title: Home
+    url: /
+
+  - title: Reviews
+    url: /reviews
+
+  - title: Articles
+    url: /articles
+
+  - title: All Posts
+    url: /posts
