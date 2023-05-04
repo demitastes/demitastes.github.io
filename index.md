@@ -2,16 +2,19 @@ Writings of a whiskey enthusiast. Currently focused on American Single Malt.
 
 ---
 
-* **New article! [A New Whiskey Category: Explaining American Single Malt Whiskey][asmw-article] ([discussion on Reddit][asmw-article-r-bourbon])**
+* **[A New Whiskey Category: Explaining American Single Malt Whiskey][asmw-article] ([discussion on Reddit][asmw-article-r-bourbon])**
+* **[The Whiskey Lodge and /r/AmericanSMW's Public Comments][asmw-comments] on [TTB's Proposed Rules for ASMW][asmw-ttb-nprm]**
 
 [asmw-article]: https://medium.com/@demitastes/a-new-whiskey-category-explaining-american-single-malt-whiskey-8aafdeb2011e
 [asmw-article-r-bourbon]: https://www.reddit.com/r/bourbon/comments/xj5av3/a_new_whiskey_category_explaining_american_single/
+[asmw-ttb-nprm]: https://www.federalregister.gov/documents/2022/07/29/2022-16244/proposed-addition-of-american-single-malt-whisky-to-the-standards-of-identity-for-distilled-spirits
+[asmw-comments]: https://www.regulations.gov/comment/TTB-2022-0007-0156
 
 ---
 
 This website is under construction.
 Check back soon to find my archive of 80+ reviews and counting
-as well as various articles featuring interviews, industry topics,
+as well as various articles featuring interviews, podcasts, industry topics,
 and anything else that comes up along the way to publishing the ASMW book.
 
 Until then you can find my review archive on Reddit, and you can interact with me
@@ -24,3 +27,5 @@ on Twitter, Instagram, Reddit, Discord, or email.
 * Hang out on **Discord:** [The Whiskey Lodge](https://discord.gg/KQGkBmtzPT)
 * **Book:** _(More information coming soon.)_
 * **Contact:** Doug (at) DemiTastes (com)
+* **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes): live whiskey and spirits discussions.
+* **YouTube:** [DemiTastes](https://youtube.com/@demitasteswhiskey) Archived VODs of streams from Twitch, Podcast edits, and Interviews.
