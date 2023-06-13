@@ -26,9 +26,7 @@ on Twitter, Instagram, Reddit, Discord, or email.
 * **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes): live whiskey and spirits discussions.
 * **YouTube:** [DemiTastes](https://youtube.com/@demitasteswhiskey) Archived VODs of streams from Twitch, Podcast edits, and Interviews.
 * Hang out on **Discord:** [The Whiskey Lodge](https://discord.gg/KQGkBmtzPT)
-
 * **Reddit:** [/u/demireticent](https://reddit.com/u/demireticent)
 * **Subreddit:** [/r/AmericanSMW: American Single Malt Whiskey](https://reddit.com/r/AmericanSMW)
-
 * **Book:** _(More information coming soon.)_
 * **Contact:** Doug (at) DemiTastes (com)
