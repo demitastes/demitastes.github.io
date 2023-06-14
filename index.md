@@ -1,9 +1,4 @@
-# Writings of a whiskey enthusiast.
-
-## Currently focused on American Single Malt.
-
 I started reviewing whiskey in 2020 by seeking out the kinds of things my friends might want to try, and quickly moved to seeking the unique and interesting. These days I focus most of my energy on American Single Malt Whiskey, including creating the subreddit /r/AmericanSMW. I enjoy Single Malts from around the world, as well as a little of everything else, including Bourbon, Brandy, Rum, and Mezcal. I’ve been using names starting with “Demi” since forever, so when I noticed my habit of pouring what seemed to be the smallest drams around the web, and the obvious pun with the small espresso cup called a demitasse, I decided that the name “DemiTastes” only made sense.
-
 
 ---
 
