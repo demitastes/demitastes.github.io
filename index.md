@@ -1,4 +1,9 @@
-Writings of a whiskey enthusiast. Currently focused on American Single Malt.
+# Writings of a whiskey enthusiast.
+
+## Currently focused on American Single Malt.
+
+I started reviewing whiskey in 2020 by seeking out the kinds of things my friends might want to try, and quickly moved to seeking the unique and interesting. These days I focus most of my energy on American Single Malt Whiskey, including creating the subreddit /r/AmericanSMW. I enjoy Single Malts from around the world, as well as a little of everything else, including Bourbon, Brandy, Rum, and Mezcal. I’ve been using names starting with “Demi” since forever, so when I noticed my habit of pouring what seemed to be the smallest drams around the web, and the obvious pun with the small espresso cup called a demitasse, I decided that the name “DemiTastes” only made sense.
+
 
 ---
 
@@ -12,13 +17,22 @@ Writings of a whiskey enthusiast. Currently focused on American Single Malt.
 
 ---
 
-This website is under construction.
-Check back soon to find my archive of 100+ reviews and counting
-as well as various articles featuring interviews, podcasts, industry topics,
-and anything else that comes up along the way to publishing the ASMW book.
+* Check out my [interview with **Joseph O'Sullivan** of Clear Creek and McCarthy's Oregon Single Malt](https://www.youtube.com/watch?v=9X042DKRS90)
+* Learn about the distilleries featured in the 2023 Virginia Whiskey Tournament: [Round 1 Batch A][r1a], [Round 1 Batch B][r1b]
 
-Until then you can find my review archive on Reddit, and you can interact with me
-on Twitter, Instagram, Reddit, Discord, or email.
+[r1a]: https://www.youtube.com/watch?v=gFBSCxxMsgc
+[r1b]: https://www.youtube.com/watch?v=FEo2gHfkDFo
+
+---
+
+I'm currently importing my archive of 100+ spirits reviews and counting to
+[MaltRunners.com](https://maltrunners.com), a collaborative review blog from some of the best enthusiast spirits reviewers out there.
+
+Check back to also find links to articles, videos, and podcast audio featuring interviews, industry topics,
+and anything else that comes up along the way to writing and publishing the book on American Single Malt Whiskey.
+
+As long as the subreddits stay online, you can also find my review archive on Reddit, and you can interact with me
+on Twitter, Instagram, Mastodon, Discord, YouTube, Twitch or email.
 
 * **Blog:** [MaltRunners.com](https://maltrunners.com) - Reviews from a collective of spirits enthusiasts (including myself)
 * **Instagram:** [@DemiTastes](https://www.instagram.com/demitastes)
