@@ -23,6 +23,7 @@ on Twitter, Instagram, Reddit, Discord, or email.
 * **Blog:** [MaltRunners.com](https://maltrunners.com) - Reviews from a collective of spirits enthusiasts (including myself)
 * **Instagram:** [@DemiTastes](https://www.instagram.com/demitastes)
 * **Twitter:** [@DemiTastes](https://twitter.com/DemiTastes)
+* **Mastodon:** [@DemiTastes@mastodon.social](https://mastodon.social/@demitastes)
 * **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes): live whiskey and spirits discussions.
 * **YouTube:** [Demi Tastes Whiskey](https://youtube.com/@demitasteswhiskey) Archived VODs of streams from Twitch, Podcast edits, and Interviews.
 * Hang out on **Discord:** [The Whiskey Lodge](https://discord.gg/KQGkBmtzPT)
