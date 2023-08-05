@@ -19,6 +19,8 @@ I hope to turn this domain into my own personal blog and review archive. Check b
 
 # Some of my notable writings and reviews:
 
+- Industry News / Press Release: **[Joseph O’Sullivan Departs Hood River Distillers, Joins Reopened Bentley Heritage Estate Distillery in Nevada
+](https://medium.com/@demitastes/joseph-osullivan-departs-hood-river-distillers-joins-reopened-bentley-heritage-estate-distillery-956735fe19b0)**
 - **[A New Whiskey Category: Explaining American Single Malt Whiskey][asmw-article] ([discussion on Reddit][asmw-article-r-bourbon])**
 - **[The Whiskey Lodge and /r/AmericanSMW's Public Comments][asmw-comments] on [TTB's Proposed Rules for ASMW][asmw-ttb-nprm]**
 - **[DemiTastes' ASMW Advent Calendar 2021 Results][demitastes-asmw-advent]**: 27 American Single Malt reviews for the 27 days of Advent 2021.
