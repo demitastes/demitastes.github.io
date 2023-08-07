@@ -14,13 +14,23 @@ I hope to turn this domain into my own personal blog and review archive. Check b
 
 - **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes) - Live whiskey and spirits discussions.
 - **YouTube:** [Demi Tastes Whiskey](https://youtube.com/@demitasteswhiskey) - Archived VODs of streams from Twitch, Podcast edits, and Interviews.
-- **[MaltRunners.com: Reviews of whisky and its friends.](https://maltrunners.com) - Reviews from a collective of spirits enthusiasts (including myself).
+- **[MaltRunners.com: Reviews of whisky and its friends.](https://maltrunners.com)** - Reviews from a collective of spirits enthusiasts (including myself).
 
 
 # Some of my notable writings and reviews:
 
 - Industry News / Press Release: **[Joseph O’Sullivan Departs Hood River Distillers, Joins Reopened Bentley Heritage Estate Distillery in Nevada
 ](https://medium.com/@demitastes/joseph-osullivan-departs-hood-river-distillers-joins-reopened-bentley-heritage-estate-distillery-956735fe19b0)**
+
+## MaltRunners.com
+
+The MaltRunners have published our first collective review. We all got a sample of the same bottle and shared our tasting notes, and then did an analysis of our collective tasting notes and ratings. Read it here:
+
+- **[COLLECTIVE REVIEW: LINKWOOD 24 YEAR (1996) THE MALTMAN FOR HNWS
+](https://maltrunners.com/2023/07/27/linkwood-24-1996-the-maltman-for-hnws/)** ([read my solo notes on Instagram](https://www.instagram.com/p/CvP-ElMpL3o))
+
+## American Single Malt Whiskey
+
 - **[A New Whiskey Category: Explaining American Single Malt Whiskey][asmw-article] ([discussion on Reddit][asmw-article-r-bourbon])**
 - **[The Whiskey Lodge and /r/AmericanSMW's Public Comments][asmw-comments] on [TTB's Proposed Rules for ASMW][asmw-ttb-nprm]**
 - **[DemiTastes' ASMW Advent Calendar 2021 Results][demitastes-asmw-advent]**: 27 American Single Malt reviews for the 27 days of Advent 2021.
@@ -39,10 +49,12 @@ I hope to turn this domain into my own personal blog and review archive. Check b
   - [Round 1 Batch A][r1a]
   - [Round 1 Batch B][r1b]
   - [Round 1 Batch C and D][r1cd]
+  - [Round 1 Batch E and F][r1ef]
 
 [r1a]: https://www.youtube.com/watch?v=gFBSCxxMsgc
 [r1b]: https://www.youtube.com/watch?v=FEo2gHfkDFo
 [r1cd]: https://www.youtube.com/watch?v=Jp33Fqda3uU
+[r1ef]: https://www.youtube.com/watch?v=zyNwSfaF4lk
 
 
 # Socials
