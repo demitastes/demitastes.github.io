@@ -1,3 +1,16 @@
+# My content:
+
+- **Blog/Reviews:** [DemiTastes.com](https://demitastes.com) - Blogs, reviews, news, book updates and more.
+- **Instagram:** [@DemiTastes](https://instagram.com/demitastes) - Trying my best to make my whiskey experiences visually pleasing.
+- **YouTube:** [Demi Tastes Whiskey](https://youtube.com/@demitasteswhiskey) - Live streams, Interviews, archived VODs, short clips from the podcast, and more.
+- **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes) - Live whiskey and spirits discussions.
+- **Subreddit:** [/r/AmericanSMW: American Single Malt Whiskey][r-asmw]
+- **[MaltRunners.com: Reviews of whisky and its friends.](https://maltrunners.com)** - Reviews from a collective of spirits enthusiasts (including myself).
+- **Linktree:** [linktr.ee/demitastes](https://linktr.ee/demitastes) - A link you can send to other people to easily find my stuff.
+
+
+# About me:
+
 I started reviewing whiskey in 2020 by seeking out the kinds of things my friends might want to try, and quickly moved to seeking the unique and interesting. These days I focus most of my energy on American Single Malt Whiskey, including creating the subreddit [/r/AmericanSMW][r-asmw]. I enjoy Single Malts from around the world, as well as a little of everything else, including Bourbon, Brandy, Rum, and Mezcal. I’ve been using usernames starting with “Demi” since forever, so when I noticed my habit of pouring what seemed to be the smallest drams around the web, and the obvious pun with the small espresso cup called a _demitasse_, I decided that the name “DemiTastes” only made sense.
 
 I'm currently importing my archive of 100+ spirits reviews and counting to
@@ -7,20 +20,12 @@ We already have 1000+ reviews published on this site and between us we have 7000
 Check back here to also find links to articles, videos, and podcast audio featuring interviews, industry topics,
 and anything else that comes up along the way to writing and publishing the book on American Single Malt Whiskey.
 
-I hope to turn this domain into my own personal blog and review archive. Check back soon for that!
-
-
-# Where you can find my content:
-
-- **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes) - Live whiskey and spirits discussions.
-- **YouTube:** [Demi Tastes Whiskey](https://youtube.com/@demitasteswhiskey) - Archived VODs of streams from Twitch, Podcast edits, and Interviews.
-- **[MaltRunners.com: Reviews of whisky and its friends.](https://maltrunners.com)** - Reviews from a collective of spirits enthusiasts (including myself).
-
 
 # Some of my notable writings and reviews:
 
 - Industry News / Press Release: **[Joseph O’Sullivan Departs Hood River Distillers, Joins Reopened Bentley Heritage Estate Distillery in Nevada
 ](https://medium.com/@demitastes/joseph-osullivan-departs-hood-river-distillers-joins-reopened-bentley-heritage-estate-distillery-956735fe19b0)**
+
 
 ## MaltRunners.com
 
@@ -28,6 +33,7 @@ The MaltRunners have published our first collective review. We all got a sample 
 
 - **[COLLECTIVE REVIEW: LINKWOOD 24 YEAR (1996) THE MALTMAN FOR HNWS
 ](https://maltrunners.com/2023/07/27/linkwood-24-1996-the-maltman-for-hnws/)** ([read my solo notes on Instagram](https://www.instagram.com/p/CvP-ElMpL3o))
+
 
 ## American Single Malt Whiskey
 
@@ -57,25 +63,22 @@ The MaltRunners have published our first collective review. We all got a sample 
 [r1ef]: https://www.youtube.com/watch?v=zyNwSfaF4lk
 
 
-# Socials
+# Other places you can find me:
 
 As long as the subreddits stay online, you can also find my review archive on Reddit, and you can interact with me
-on Twitter, Instagram, Mastodon, Discord, YouTube, Twitch or email.
+on Discord, Instagram, YouTube, Twitch or email -- and you might occasionally find me on Reddit, Threads, Mastodon, Bluesky,
+and the microblog formerly known as Twitter.
 
-- **Instagram:** [@DemiTastes](https://www.instagram.com/demitastes)
+- Hang out on **Discord:** [The Whiskey Lodge](https://discord.gg/KQGkBmtzPT)
+- **Reddit:** [/u/demireticent](https://reddit.com/u/demireticent)
 - **Threads:** [@DemiTastes](https://www.threads.net/@demitastes)
 - **Mastodon:** [@DemiTastes@mastodon.social](https://mastodon.social/@demitastes)
-- **Twitch:** [DemiTastes hosts The Whiskey Lodge-cast](https://twitch.tv/demitastes): live whiskey and spirits discussions.
-- **YouTube:** [Demi Tastes Whiskey](https://youtube.com/@demitasteswhiskey) Archived VODs of streams from Twitch, Podcast edits, and Interviews.
-- **Subreddit:** [/r/AmericanSMW: American Single Malt Whiskey][r-asmw]
-- **Reddit:** [/u/demireticent](https://reddit.com/u/demireticent)
+- **Bluesky:** [@DemiTastes](https://bsky.app/profile/demitastes.bsky.social)
 - **Twitter:** [@DemiTastes](https://twitter.com/DemiTastes)
-- Hang out on **Discord:** [The Whiskey Lodge](https://discord.gg/KQGkBmtzPT)
-
 
 # Everything Else:
 
-- **Book:** _(More information coming soon.)_
+- **Book:** _(More information coming soon.)_ - [asmwbook.com](http://asmwbook.com) - redirects back to this site for now.
 - **Contact:** Doug (at) DemiTastes (com)
 
 [r-asmw]: https://reddit.com/r/AmericanSMW
